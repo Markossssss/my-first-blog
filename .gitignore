@@ -4,3 +4,4 @@ __pycache__
 myenv
 /static
 .DB_Store
+token.txt
